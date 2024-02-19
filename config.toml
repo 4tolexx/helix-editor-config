@@ -1,0 +1,8 @@
+theme = "github_dark_colorblind"
+
+[editor]
+auto-format = true
+auto-save = true
+
+[editor.lsp]
+snippets = true
